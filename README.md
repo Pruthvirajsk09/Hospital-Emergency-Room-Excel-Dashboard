@@ -17,10 +17,10 @@ Microsoft Excel | Pivot Tables | Pivot Charts | Power Pivot | DAX | Data Analysi
 - Power Pivot & Data Modeling
 - DAX (Data Analysis Expressions)
 - KPI Analysis
-DAX Formulas Used
+### DAX Formulas Used
 Average Wait Time – Calculated the average patient waiting time to evaluate hospital response efficiency.
 Age Group Calculation – Created age group categories (0–4, 5–14, 15–29, 30–44, 45–59, 60–69, 70+) using DAX to analyze patient demographics.
-Dashboard Insights
+### Dashboard Insights
 Patient admission vs non-admission analysis
 Patient age group distribution
 Average waiting time analysis
