@@ -1,12 +1,12 @@
 # Hospital-Emergency-Room-Excel-Dashboard
 
-Project Overview
+### Project Overview
 This project presents an interactive Excel dashboard designed to analyze hospital emergency room data. The dashboard provides insights into patient admission status, waiting time, demographics, and department referrals to support better decision-making in healthcare operations.
 
-Dataset
+### Dataset
 The dataset contains hospital emergency room patient records including admission status, patient age, gender, wait time, and department referrals. The data is used to analyze patient flow and hospital performance.
 
-Tools & Technologies
+### Tools & Technologies
 Microsoft Excel | Pivot Tables | Pivot Charts | Power Pivot | DAX | Data Analysis | Dashboard Design
 
 - Tools & Skills Used
